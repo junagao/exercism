@@ -1,3 +1,6 @@
 [submodule "javascript/hello-world"]
 	path = javascript/hello-world
 	url = git@github.com:junagao/hello-world.git
+[submodule "javascript/javascript/two-fer"]
+	path = javascript/javascript/two-fer
+	url = git@github.com:junagao/two-fer.git
