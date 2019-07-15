@@ -1,0 +1,3 @@
+[submodule "javascript/hello-world"]
+	path = javascript/hello-world
+	url = git@github.com:junagao/hello-world.git
