@@ -4,3 +4,6 @@
 [submodule "javascript/javascript/two-fer"]
 	path = javascript/javascript/two-fer
 	url = git@github.com:junagao/two-fer.git
+[submodule "javascript/two-fer"]
+	path = javascript/two-fer
+	url = git@github.com:junagao/two-fer.git
