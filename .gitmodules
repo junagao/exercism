@@ -7,3 +7,6 @@
 [submodule "javascript/resistor-color"]
 	path = javascript/resistor-color
 	url = git@github.com:junagao/resistor-color.git
+[submodule "javascript/resistor-color-duo"]
+	path = javascript/resistor-color-duo
+	url = git@github.com:junagao/resistor-color-duo.git
