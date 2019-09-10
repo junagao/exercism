@@ -10,3 +10,6 @@
 [submodule "javascript/resistor-color-duo"]
 	path = javascript/resistor-color-duo
 	url = git@github.com:junagao/resistor-color-duo.git
+[submodule "javascript/darts"]
+	path = javascript/darts
+	url = git@github.com:junagao/darts.git
